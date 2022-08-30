@@ -28,14 +28,14 @@ useHead({
             aprendiendo.
           </p>
           <p class="text-sm">
-            Cuento con experiencia en creación de paginas web y proyectos de
-            analisis en R.
+            Cuento con experiencia en creación de páginas web y proyectos de
+            análisis en R.
           </p>
         </div>
       </section>
       <section id="grade" class="mx-2">
         <header>
-          <h2 class="text-lg font-semibold">Formación Academica</h2>
+          <h2 class="text-lg font-semibold">Formación Académica</h2>
         </header>
         <div class="ml-2">
           <ul>
@@ -108,12 +108,12 @@ useHead({
                 </h3>
               </a>
               <p class="text-sm italic">
-                Sitio web para la cafeteria Placer Espresso
+                Sitio web para la cafetería Placer Espresso
               </p>
             </header>
             <p class="px-2 text-sm">
-              La pagina fue hecha para contener la información de contacto, el
-              menú que manejan, ademas de enlaces utiles de sus redes sociales.
+              La página fue hecha para contener la información de contacto, el
+              menú que manejan, además de enlaces útiles de sus redes sociales.
             </p>
             <div
               class="mt-auto h-40 w-full touch-auto overflow-y-auto rounded shadow"
@@ -121,7 +121,7 @@ useHead({
               <img
                 class="w-full"
                 src="../assets/img/2.png"
-                alt="Pagina de Placer Espresso"
+                alt="Página  de Placer Espresso"
               />
             </div>
           </li>
@@ -141,8 +141,8 @@ useHead({
               </p>
             </header>
             <p class="px-2 text-sm">
-              La pagina fue hecha para contener la información de contacto, los
-              servicios que manejan, ademas de enlaces utiles de sus redes
+              La página fue hecha para contener la información de contacto, los
+              servicios que manejan, además de enlaces útiles de sus redes
               sociales.
             </p>
             <div
@@ -150,7 +150,7 @@ useHead({
             >
               <img
                 src="../assets/img/1.png"
-                alt="Pagina de Mendez Remodeling ATL LLC"
+                alt="Página  de Mendez Remodeling ATL LLC"
               />
             </div>
           </li>
@@ -166,7 +166,7 @@ useHead({
                 </h3>
               </a>
               <p class="text-sm italic">
-                Proyecto en R, crear nuestro propia versión del l algoritmo KNN
+                Proyecto en R, crear nuestro propia versión del algoritmo KNN
               </p>
             </header>
             <p class="px-2 text-sm">
