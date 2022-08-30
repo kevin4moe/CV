@@ -1,10 +1,4 @@
-<script setup>
-let counter = ref(0);
-
-setInterval(() => {
-  counter.value++;
-}, 1000);
-</script>
+<script setup></script>
 
 <template>
   <div>
